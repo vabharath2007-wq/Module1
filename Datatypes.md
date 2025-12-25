@@ -13,9 +13,11 @@ Write a python program to read one integer and one float value then print the va
 ## 💻 Program
 
 a=int(input())
+
 b=float(input())
 
 print(a)
+
 print(b)
 
 
