@@ -1,5 +1,5 @@
 
-# Datatypes
+# Datatypes - read and print values of different datatypes
 
 ## 🎯 Aim
 Write a python program to read one integer and one float value then print the values.
