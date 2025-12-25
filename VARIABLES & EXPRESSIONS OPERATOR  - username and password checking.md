@@ -8,7 +8,11 @@ username=saveetha
 password=saveetha12
 
 ## 🧠 Algorithm
-
+1. get username and password as input from user.
+2. write if username=="saveetha" and password=="saveetha12":
+3. print("Login successfull")
+4. else:  
+print("Login Failed")
 
 ## 🧾 Program
 
